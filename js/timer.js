@@ -45,5 +45,5 @@ const timer = (deadline) => {
 }
 
 document.addEventListener('DOMContentLoaded', (e) => {
-    timer('2022-04-30')
+    timer('2023-04-30')
 })
