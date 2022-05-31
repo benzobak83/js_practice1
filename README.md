@@ -1,5 +1,5 @@
 # js_practice1
-<a href='https://benzobak83.github.io/js_practice1/'>LINK</a><br>
+<a href='https://benzobak83.github.io/js_practice1/'><h1>LINK</h1></a><br>
 
  <h3>реализован функционал модальных окон. <br>
  реализован функционал вкладок (табов).<br>
